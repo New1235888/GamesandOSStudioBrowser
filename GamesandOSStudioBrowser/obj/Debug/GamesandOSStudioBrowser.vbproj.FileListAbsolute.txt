@@ -1,0 +1,12 @@
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\bin\Debug\GamesandOSStudioBrowser.exe.config
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\bin\Debug\GamesandOSStudioBrowser.exe
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\bin\Debug\GamesandOSStudioBrowser.pdb
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\bin\Debug\GamesandOSStudioBrowser.xml
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\obj\Debug\GamesandOSStudioBrowser.vbprojAssemblyReference.cache
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\obj\Debug\GamesandOSStudioBrowser.Form1.resources
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\obj\Debug\GamesandOSStudioBrowser.Resources.resources
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\obj\Debug\GamesandOSStudioBrowser.vbproj.GenerateResource.cache
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\obj\Debug\GamesandOSStudioBrowser.vbproj.CoreCompileInputs.cache
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\obj\Debug\GamesandOSStudioBrowser.exe
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\obj\Debug\GamesandOSStudioBrowser.xml
+F:\github\browser\GamesandOSStudioBrowser\GamesandOSStudioBrowser\obj\Debug\GamesandOSStudioBrowser.pdb
